@@ -1,6 +1,6 @@
 {
   "$GMRoom":"v1",
-  "%Name":"Test_Bedroom",
+  "%Name":"Lab_Bedroom",
   "creationCodeFile":"",
   "inheritCode":false,
   "inheritCreationOrder":false,
@@ -11,7 +11,7 @@
     {"$GMRInstanceLayer":"","%Name":"behindplayer","depth":0,"effectEnabled":true,"effectType":null,"gridX":20,"gridY":20,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"behindplayer","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":30.0,"animationSpeedType":0,"colour":4294967295,"depth":100,"effectEnabled":true,"effectType":null,"gridX":20,"gridY":20,"hierarchyFrozen":false,"hspeed":0.0,"htiled":true,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":{"name":"Lab_Floor","path":"sprites/Lab_Floor/Lab_Floor.yy",},"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":true,"x":0,"y":0,},
   ],
-  "name":"Test_Bedroom",
+  "name":"Lab_Bedroom",
   "parent":{
     "name":"UnderAngel",
     "path":"UnderAngel.yyp",

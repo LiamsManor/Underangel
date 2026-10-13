@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Atticus",
+  "%Name":"Obj_Playerchosen",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":10,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -18,13 +18,16 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Atticus",
+  "name":"Obj_Playerchosen",
   "overriddenProperties":[],
   "parent":{
-    "name":"Atticus",
-    "path":"folders/Characters/Atticus.yy",
+    "name":"Player_base",
+    "path":"folders/Characters/Player_base.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"Atticus_Lab_CS",
+    "path":"objects/Atticus_Lab_CS/Atticus_Lab_CS.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -48,8 +51,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Atticus_Lab_front_BO",
-    "path":"sprites/Atticus_Lab_front_BO/Atticus_Lab_front_BO.yy",
+    "name":"Test_Friskwd",
+    "path":"sprites/Test_Friskwd/Test_Friskwd.yy",
   },
   "spriteMaskId":null,
   "visible":true,
