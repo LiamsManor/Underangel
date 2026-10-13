@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Atticus",
-    "path":"folders/Atticus.yy",
+    "path":"folders/Characters/Atticus.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

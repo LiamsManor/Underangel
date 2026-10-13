@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Atticus",
-    "path":"folders/Atticus.yy",
+    "path":"folders/Characters/Atticus.yy",
   },
   "parentObjectId":null,
   "persistent":false,

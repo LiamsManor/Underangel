@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Leah",
-    "path":"folders/Leah.yy",
+    "path":"folders/Characters/Leah.yy",
   },
   "parentObjectId":null,
   "persistent":false,

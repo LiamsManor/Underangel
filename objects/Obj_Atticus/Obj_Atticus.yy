@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"Obj_Player_Base",
+  "%Name":"Obj_Atticus",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":9,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":37,"eventType":10,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -18,11 +18,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"Obj_Player_Base",
+  "name":"Obj_Atticus",
   "overriddenProperties":[],
   "parent":{
-    "name":"Player_base",
-    "path":"folders/Player_base.yy",
+    "name":"Atticus",
+    "path":"folders/Characters/Atticus.yy",
   },
   "parentObjectId":null,
   "persistent":false,

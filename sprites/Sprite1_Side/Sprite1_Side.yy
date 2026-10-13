@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Player_base",
-    "path":"folders/Player_base.yy",
+    "path":"folders/Characters/Player_base.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
