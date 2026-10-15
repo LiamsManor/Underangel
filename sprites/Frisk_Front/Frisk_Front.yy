@@ -16,8 +16,6 @@
     {"$GMSpriteFrame":"v1","%Name":"0c2ad65c-c27b-4ee9-bd84-b61b1122b168","name":"0c2ad65c-c27b-4ee9-bd84-b61b1122b168","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"5d0ad1f0-4ccc-473e-9c2f-8f914947a435","name":"5d0ad1f0-4ccc-473e-9c2f-8f914947a435","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
     {"$GMSpriteFrame":"v1","%Name":"d780c14f-a069-40f3-a5ef-19d17b7680f9","name":"d780c14f-a069-40f3-a5ef-19d17b7680f9","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"324624d6-db1d-42b4-8a7b-0b3c3c474edd","name":"324624d6-db1d-42b4-8a7b-0b3c3c474edd","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"v1","%Name":"bd2c61fd-da65-409d-bcef-7c16e50987ea","name":"bd2c61fd-da65-409d-bcef-7c16e50987ea","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
@@ -54,7 +52,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":6.0,
+    "length":4.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -85,12 +83,6 @@
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
                 "0":{"$SpriteFrameKeyframe":"","Id":{"name":"d780c14f-a069-40f3-a5ef-19d17b7680f9","path":"sprites/Frisk_Front/Frisk_Front.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"e1eef5d0-556a-45c5-bb47-cb81985a2a0c","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"324624d6-db1d-42b4-8a7b-0b3c3c474edd","path":"sprites/Frisk_Front/Frisk_Front.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"0fb42b52-89a2-49d4-aebe-4b3e45c86777","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bd2c61fd-da65-409d-bcef-7c16e50987ea","path":"sprites/Frisk_Front/Frisk_Front.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"7682d88b-d383-4303-bdaf-8309351c5793","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
