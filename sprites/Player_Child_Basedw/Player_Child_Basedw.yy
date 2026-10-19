@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Player_base",
-    "path":"folders/Characters/Player_base.yy",
+    "name":"Child_Base",
+    "path":"folders/Characters/Player_base/Child_Base.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
