@@ -1,11 +1,11 @@
 {
   "$GMSprite":"v2",
   "%Name":"Spr_FriskTest_wd",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":29,
   "bbox_left":0,
   "bbox_right":18,
-  "bbox_top":0,
+  "bbox_top":22,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,

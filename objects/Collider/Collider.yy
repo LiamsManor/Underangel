@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"Object5",
+  "%Name":"Collider",
   "eventList":[],
   "managed":true,
-  "name":"Object5",
+  "name":"Collider",
   "overriddenProperties":[],
   "parent":{
     "name":"UnderAngel",
@@ -32,5 +32,5 @@
     "path":"sprites/Sprite9/Sprite9.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

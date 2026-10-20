@@ -43,6 +43,9 @@
     "name":"Spr_FriskTest_wd",
     "path":"sprites/Spr_FriskTest_wd/Spr_FriskTest_wd.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"Spr_FriskTest_wd",
+    "path":"sprites/Spr_FriskTest_wd/Spr_FriskTest_wd.yy",
+  },
   "visible":true,
 }

@@ -15,6 +15,15 @@ if(keyboard_check(vk_shift) or keyboard_check(ord("x"))){
 yspeed = (down_key - up_key) * move_speed
 xspeed = (right_key - left_key) * move_speed
 
+//Collision
+
+if(place_meeting(x + xspeed, y, Collider)){
+	xspeed = 0	
+}
+if(place_meeting(x, y + yspeed, Collider)){
+	yspeed = 0
+}
+
 x += xspeed
 y += yspeed
 
