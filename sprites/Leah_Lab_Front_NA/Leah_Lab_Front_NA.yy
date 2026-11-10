@@ -51,7 +51,7 @@
   "origin":4,
   "parent":{
     "name":"Leah",
-    "path":"folders/Characters/Leah.yy",
+    "path":"folders/Characters/Human/Leah.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

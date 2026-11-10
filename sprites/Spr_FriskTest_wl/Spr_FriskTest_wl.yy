@@ -1,11 +1,11 @@
 {
   "$GMSprite":"v2",
   "%Name":"Spr_FriskTest_wl",
-  "bboxMode":0,
+  "bboxMode":2,
   "bbox_bottom":29,
   "bbox_left":1,
   "bbox_right":17,
-  "bbox_top":1,
+  "bbox_top":21,
   "collisionKind":1,
   "collisionTolerance":0,
   "DynamicTexturePage":false,
@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Frisk",
-    "path":"folders/Characters/Frisk.yy",
+    "path":"folders/Characters/Human/Frisk.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

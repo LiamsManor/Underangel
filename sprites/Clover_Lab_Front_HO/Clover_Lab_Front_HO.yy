@@ -34,7 +34,7 @@
   "origin":4,
   "parent":{
     "name":"Clover",
-    "path":"folders/Characters/Clover.yy",
+    "path":"folders/Characters/Human/Clover.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,10 +1,10 @@
 {
   "$GMSprite":"v2",
-  "%Name":"Frisk_Front",
+  "%Name":"Frisk_Down",
   "bboxMode":2,
   "bbox_bottom":29,
-  "bbox_left":1,
-  "bbox_right":19,
+  "bbox_left":0,
+  "bbox_right":18,
   "bbox_top":22,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -24,19 +24,19 @@
   "layers":[
     {"$GMImageLayer":"","%Name":"c8a4c4d5-3513-4437-af11-55948ddad468","blendMode":0,"displayName":"default","isLocked":false,"name":"c8a4c4d5-3513-4437-af11-55948ddad468","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"Frisk_Front",
+  "name":"Frisk_Down",
   "nineSlice":null,
   "origin":4,
   "parent":{
     "name":"Frisk",
-    "path":"folders/Characters/Frisk.yy",
+    "path":"folders/Characters/Human/Frisk.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"v1",
-    "%Name":"Frisk_Front",
+    "%Name":"Frisk_Down",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -60,9 +60,9 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"Frisk_Front",
+    "name":"Frisk_Down",
     "playback":1,
-    "playbackSpeed":2.0,
+    "playbackSpeed":5.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",
@@ -72,16 +72,16 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dfccc0b9-8c87-4fdd-ad64-226ebfe57e0b","path":"sprites/Frisk_Front/Frisk_Front.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"dfccc0b9-8c87-4fdd-ad64-226ebfe57e0b","path":"sprites/Frisk_Down/Frisk_Down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"c9b11ffa-368e-47d3-999b-2f437ad2e917","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"658945c5-7d23-43c0-a7ce-2cc8953166c5","path":"sprites/Frisk_Front/Frisk_Front.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"658945c5-7d23-43c0-a7ce-2cc8953166c5","path":"sprites/Frisk_Down/Frisk_Down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"5967c609-9654-4664-85b6-f092159b6c55","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5d0ad1f0-4ccc-473e-9c2f-8f914947a435","path":"sprites/Frisk_Front/Frisk_Front.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5d0ad1f0-4ccc-473e-9c2f-8f914947a435","path":"sprites/Frisk_Down/Frisk_Down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"48cbd302-57a8-44dd-8f4e-8b221948d0a1","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9a18c921-8ec4-4c0a-94f2-f75e518e8515","path":"sprites/Frisk_Front/Frisk_Front.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"9a18c921-8ec4-4c0a-94f2-f75e518e8515","path":"sprites/Frisk_Down/Frisk_Down.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
               },"Disabled":false,"id":"eb5dc162-a8e0-4dc4-b1b0-e7085756eea3","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],

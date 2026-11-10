@@ -29,15 +29,15 @@ y += yspeed
 
 //animate
 if (xspeed > 0){
-	sprite_index = Spr_FriskTest_wr
+	sprite_index = Frisk_Right
 } else if (xspeed < 0){
-	sprite_index = Spr_FriskTest_wl
+	sprite_index = Frisk_Left
 }
 
 if (yspeed > 0){
-	sprite_index = Spr_FriskTest_wd
+	sprite_index = Frisk_Down
 } else if (yspeed < 0){
-	sprite_index = Spr_FriskTest_wu
+	sprite_index = Frisk_Up
 }
 
 if (xspeed != 0 or yspeed !=0){

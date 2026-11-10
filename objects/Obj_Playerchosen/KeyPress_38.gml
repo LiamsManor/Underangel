@@ -1,3 +1,3 @@
 /// @description runs once when pressed
-sprite_index = Spr_FriskTest_wu
+sprite_index = Frisk_Up
 image_index = 1

@@ -48,7 +48,7 @@
   "origin":4,
   "parent":{
     "name":"Atticus",
-    "path":"folders/Characters/Atticus.yy",
+    "path":"folders/Characters/Human/Atticus.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

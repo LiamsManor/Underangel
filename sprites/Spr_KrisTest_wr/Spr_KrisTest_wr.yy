@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Kirs_Test",
-    "path":"folders/Characters/Kirs_Test.yy",
+    "path":"folders/Characters/Human/Kirs_Test.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

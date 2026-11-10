@@ -40,12 +40,9 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"Spr_FriskTest_wd",
-    "path":"sprites/Spr_FriskTest_wd/Spr_FriskTest_wd.yy",
+    "name":"Frisk_Down",
+    "path":"sprites/Frisk_Down/Frisk_Down.yy",
   },
-  "spriteMaskId":{
-    "name":"Spr_FriskTest_wd",
-    "path":"sprites/Spr_FriskTest_wd/Spr_FriskTest_wd.yy",
-  },
+  "spriteMaskId":null,
   "visible":true,
 }
